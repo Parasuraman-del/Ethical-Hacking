@@ -1,0 +1,1 @@
+nikto -h livewire.txt -o parasuraman.txt
